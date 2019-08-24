@@ -1,0 +1,2 @@
+# thequant
+quantitative trading strategies
